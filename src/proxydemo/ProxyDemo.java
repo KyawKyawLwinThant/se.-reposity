@@ -14,7 +14,8 @@ public class ProxyDemo {
     
     public static void main(String[] args) {
         System.out.println("Hello World" + "This is amazing...");
-        System.out.println("Modify");
+        System.out.println("Modified");
+        System.out.println("By Naing Naing Lin");
     }
     
 }
