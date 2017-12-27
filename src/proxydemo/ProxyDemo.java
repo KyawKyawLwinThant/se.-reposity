@@ -17,6 +17,7 @@ public class ProxyDemo {
         System.out.println("Modified");
         System.out.println("By Naing Naing Lin");
         System.out.println("Jinn Arlando");
+        System.out.println("Hello JDC");
     }
     
 }
